@@ -1,13 +1,13 @@
 | Program Name     | **Course: Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app** |
-| ---------------- | ------------------------------------------------ |
-| Public File Name | **README.md**                                    |
-| Date Created     | 06/12/22                                         |
-| Date Modified    | --                                               |
-| Version          | 1.00                                             |
-| Programmer       | Eric Hepperle                                    |
-| Platform         | Udemy                                            |
-| Learning Type   | Course                                           |
-| Course URL | https://www.udemy.com/course/react-front-to-back-2022/|
+| ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| Public File Name | **README.md**                                                                                              |
+| Date Created     | 06/12/22                                                                                                   |
+| Date Modified    | --                                                                                                         |
+| Version          | 1.00                                                                                                       |
+| Programmer       | Eric Hepperle                                                                                              |
+| Platform         | Udemy                                                                                                      |
+| Learning Type    | Course                                                                                                     |
+| Course URL       | https://www.udemy.com/course/react-front-to-back-2022/                                                     |
 
 ### TECHNOLOGIES:
 
@@ -15,8 +15,26 @@
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+[![website](./img/globe-light.svg)](https://erichepperle.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://erichepperle.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/EricLHepperle#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/EricLHepperle#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/erichepperle#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erichepperle#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/erichepperledesigns#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/erichepperledesigns#gh-dark-mode-only)
+ 
 // GITHUB
-// MONGODB
+// [MONGODB](https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg)
+
 // EXPRESS
 // REACT
 // NODE
@@ -109,4 +127,4 @@ Express and Node make up the middle (application) tier. Express.js is a server-s
 - Tutwrk: This is term I use to indicate the work I did when following a tutorial. This term is differentiated from tutorials I may create/author in the future that will be designated with the term "Tutorial".
 
 ## Resources:
-- N/A
+- Technology icons come from https://github.com/devicons/devicon/tree/v2.15.1/icons
