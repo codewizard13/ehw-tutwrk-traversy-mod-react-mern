@@ -15,29 +15,19 @@
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-[![website](./img/globe-light.svg)](https://erichepperle.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://erichepperle.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/EricLHepperle#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/EricLHepperle#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/erichepperle#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erichepperle#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/erichepperledesigns#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/erichepperledesigns#gh-dark-mode-only)
- 
-// GITHUB
-// [MONGODB](https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg)
+<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
-// EXPRESS
-// REACT
-// NODE
+<img align="left" alt="ExpressJS" title="ExpressJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJS" title="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Redux" title="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
+
 
 <br>
 
