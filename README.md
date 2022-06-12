@@ -14,6 +14,12 @@
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
+// GITHUB
+// MONGODB
+// EXPRESS
+// REACT
+// NODE
+
 <br>
 
 ## Purpose:
@@ -44,11 +50,20 @@ The first project (Feedback App) is structured in a way so I can explain the fun
 
 The final project has been added! It is a fullstack MERN support ticket system that uses Redux and Redux Toolkit.
 
+### Included Projects
+
+- Feedback app with in depth explanation of React fundamentals
+- Build a house marketplace with React and Firebase 9
+- Learn React hooks and how to create custom hooks
+- Learn how to use context and reducers to manage global state
+- Build a Fullstack MERN support ticket system with Redux Toolkit
+
 ![Warning](img/warning-1.jpg)
 
 ## Course Info
 
 - **Length:** 21.5 hours
+- **Level:** Beginner & Intermediate
   
 ### Project Screenshots:
 
