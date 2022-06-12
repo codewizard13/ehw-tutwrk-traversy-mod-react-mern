@@ -6,7 +6,8 @@
 | Version          | 1.00                                             |
 | Programmer       | Eric Hepperle                                    |
 | Platform         | Udemy                                            |
-| Leaarning Type   | Course                                           |
+| Learning Type   | Course                                           |
+| Course URL | https://www.udemy.com/course/react-front-to-back-2022/|
 
 ### TECHNOLOGIES:
 
