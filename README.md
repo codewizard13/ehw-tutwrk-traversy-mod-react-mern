@@ -38,9 +38,11 @@
 
 ### Description
 
-This is a front to back JavaScript course for absolutely everybody. We start with the basic fundamentals and work our way to advanced programming WITHOUT relying on frameworks or libraries at all. You will learn a ton of pure JavaScript, whether you are a beginner or an established JS programmer. There is something for everyone...
+This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills.
 
+The first project (Feedback App) is structured in a way so I can explain the fundamentals such as components, hooks, props, state, etc in a way that beginners can understand. The second project (Github Finder) will show you how to work with 3rd party APIs and the third project (House Marketplace) is a larger app that uses Firebase 9 and includes authentication, Firestore queries, file storage and more.
 
+The final project has been added! It is a fullstack MERN support ticket system that uses Redux and Redux Toolkit.
 
 ## Course Info
 
