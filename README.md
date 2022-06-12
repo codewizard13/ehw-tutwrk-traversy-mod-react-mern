@@ -29,6 +29,8 @@
 
 <img align="left" alt="Redux" title="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Firebase" title="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
+
 
 <br>
 
