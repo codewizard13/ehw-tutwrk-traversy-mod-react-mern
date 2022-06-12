@@ -1,0 +1,212 @@
+###  Section 1: Introduction
+####  1. Welcome To The Course!
+####  2. What Is React?
+####  3. Environment Setup
+####  4. Code Repos
+####  5. Links & Resources
+
+###  Section 2: React Basics & JSX
+####  6. Feedback Project Intro
+####  7. Create React App
+####  8. Initializing React
+####  9. Intro To JSX
+####  10. Dynamic Values & LIsts in JSX
+####  11. Conditionals in JSX
+##### RESOURCES:
+
+###  Section 3: Components, Props & State
+####  12. Creating Your First Component & Props
+####  13. Adding Styles To A Component
+####  14. State & useState Hook
+####  15. Managing Global State
+####  16. Card Component & Conditional Styles
+####  17. Events & Prop Drilling
+####  18. FeedbackStats Component & Reactivity
+##### RESOURCES:
+
+###  Section 4: Forms, Validation & Simple Animation
+####  19. Form Input & State
+####  20. Custom Button Component
+####  21. Real-Time Validation
+####  22. Rating Select Component
+####  23. Add Feedback
+####  24. Fade Animation With Framer Motion
+##### RESOURCES:
+
+###  Section 5: Creating Routes & Links
+####  25. Creating Routes (React Router 5)
+####  26. Upgrading To React Router 6
+####  27. Creating Links (v5 & v6)
+####  28. NavLink & useParams
+####  29. Navigate & Nested Routes
+##### RESOURCES:
+
+###  Section 6: Context API, useContext Hook & Deployment
+####  30. Create a Context & Provider
+####  31. Get Global State With The useContext Hook
+####  32. Moving Functions To Context
+####  33. Edit Feedback Event
+####  34. Side Effects With useEffect
+####  35. Update Feedback Item
+####  36. Deploy To Netlify
+##### RESOURCES:
+
+###  Section 7: APIs & HTTP Requests
+####  37. APIs & Requests Explained
+####  38. Setting Up JSON-Server Mock Backend
+####  39. Run Client & Server With Concurrently
+####  40. Fetch Data From JSON-Server Backend
+####  41. Spinner Component
+####  42. Add Feedback & Setting a Proxy
+####  43. Update & Delete From JSON-Server
+##### RESOURCES:
+
+###  Section 8: GitHub Finder Project Start
+####  44. GitHub Finder Project Intro
+####  45. Setup Tailwind & Daisy UI
+####  46. Navbar Component
+####  47. Footer Component
+####  48. Pages & Routes
+##### RESOURCES:
+
+###  Section 9: Working With The GitHub API
+####  49. Github API & Getting Token
+####  50. UserList Component
+####  51. Loading Spinner
+####  52. Display Users
+####  53. Setup Github Context
+####  54. Reducers & useReducer Hook
+####  55. Clean Up Fetch Users
+####  56. User Search Component
+####  57. Search Users
+####  58. Clear Users
+##### RESOURCES:
+
+###  Section 10: User Profile & Alerts
+####  59. Alert Context & Reducer
+####  60. Alert Component
+####  61. Get Single User
+####  62. User Profile Top
+####  63. User Profile Stats
+####  64. Get User Repos
+####  65. Repo Items
+##### RESOURCES:
+
+###  Section 11: Refactoring Context & Actions
+####  66. Move SearchUsers To Actions File
+####  67. Move getUser To Actions File
+####  68. Cleaning Up Our Actions & Axios
+####  69. Deploy To Vercel
+##### RESOURCES:
+
+###  Section 12: More Advanced React Hooks
+####  70. Section Intro
+####  71. useRef Example 1 - Create DOM Reference
+####  72. useRef Example 2 - Get Previous State
+####  73. useRef Example 3 - Memory Leak Error Fix
+####  74. useMemo Example
+####  75. useCallback Example
+####  76. Custom Hook 1 - useFetch
+####  77. Custom Hook 2 - useLocalStorage
+##### RESOURCES:
+- react-sandbox.zip
+
+###  Section 13: House Marketplace Project Start
+####  78. House Marketplace Project Intro
+####  79. App & FIrebase Setup
+####  80. Enable Authentication & Create Rules
+####  81. Dummy Data & Indexes
+####  82. Pages & Routes
+####  83. Navbar Component
+##### RESOURCES:
+- house-marketplace-resources.zip
+
+###  Section 14: Firebase Authentication & Profile
+####  84. Sign In & Sign Up Forms
+####  85. Register User
+####  86. Save User To Firestore
+####  87. User Sign In
+####  88. Alerts With React Toastify
+####  89. User Logout
+####  90. Display & Update User Details
+####  91. PrivateRoute Component & useAuthStatus Hook
+####  92. Forgot Password Page
+####  93. Google OAuth
+##### RESOURCES:
+
+###  Section 15: Get & Create Listings
+####  94. Explore Page
+####  95. Fetch Listings From Firebase
+####  96. Listing Item Component
+####  97. Offers Page
+####  98. Start Create Listing Page
+####  99. Create Listing Form
+####  100. Get Coords With Geocoding API
+####  101. Uploading Images To FIrebase
+####  102. Save Listings To Firestore
+####  103. Quick Note & Change
+##### RESOURCES:
+
+###  Section 16: Single Listings, Map, Slider & Edit
+####  104. Fetch Single Listing
+####  105. Listing Details
+####  106. Contact Landlord Page
+####  107. Leaflet Map
+####  108. Listings Page Slider
+####  109. Explore Slider
+####  110. Profile Listings & Delete
+####  111. Load More Pagination
+####  112. Edit Listing Icon
+####  113. Edit Listing
+####  114. Clear Up Console Warnings
+####  115. Deploy To Vercel
+##### RESOURCES:
+
+###  Section 17: MERN Project Start, API & Backend Authentication
+####  116. Project Intro
+####  117. What Is The MERN Stack?
+####  118. MongoDB Setup
+####  119. Server File Stucture
+####  120. Basic Express Server Setup
+####  121. Add Routes & Controller
+####  122. Error & Exception Handling
+####  123. Connect To The Database
+####  124. Register User
+####  125. Login & Create JWT
+####  126. Protect Routes & Authentication
+##### RESOURCES:
+
+###  Section 18: Frontend Authentication
+####  127. Frontend Folder Setup
+####  128. Header & Initial Pages
+####  129. Home, Login & Register UI
+####  130. Redux Setup & Auth Slice
+####  131. Hook Register Form To Redux
+####  132. Register User
+####  133. Logout User
+####  134. User Login
+##### RESOURCES:
+- index.css.zip
+
+###  Section 19: Tickets Functionality
+####  135. Ticket Model & Routes
+####  136. Get & Create Tickets (Backend)
+####  137. Single Ticket, Update & Delete (Backend)
+####  138. Route Guard
+####  139. New Ticket Form
+####  140. Add Tickets To Redux
+####  141. Create Ticket Functionality
+####  142. Fetch Tickets From Backend
+####  143. Listing Tickets In UI
+####  144. Single Ticket Display
+####  145. Close Ticket Functionality
+##### RESOURCES:
+
+###  Section 20: Notes Functionality & Deploy
+####  146. Notes Backend
+####  147. Fetch Notes Through Redux
+####  148. Display Notes
+####  149. Note Form Modal
+####  150. Submit a Note
+####  151. Deploy To Heroku
+##### RESOURCES:
