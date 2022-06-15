@@ -15,6 +15,11 @@ function App() {
 
       <div className="comments">
         <h3>Comments: ({comments.length})</h3>
+        <ul>
+          {comments.map((comment, index) => (
+            <li>{comment.text}</li>
+          ))}
+        </ul>
       </div>
     </div>
   )
